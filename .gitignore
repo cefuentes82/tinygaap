@@ -1,0 +1,11 @@
+.env
+.env.*
+*.bin
+*.out
+*.test
+/verify_paypal_sandbox
+/serve_tinygaap
+.DS_Store
+.claude/
+/state/
+*.jsonl
